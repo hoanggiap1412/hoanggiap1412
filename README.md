@@ -1,13 +1,14 @@
-## Hi there 👋
+## Hi guys 👋
+Here are some information about me ⭐
+💮 My hometown is ***Hue, Vietnam*** 🇻🇳
+🌱 Learning **Computer Science** at **The University of Information Technology, Vietnam** 🏫
+👯 Some sports i can play with you : 🎱,🏸,🏈
+⚡ Fun fact : I'm a bit lazy sometimes, just wanna enjoy laying on a bed filled with snakes
+🤝 **I’m very honored to be friends with you**
 
-<!--
-**hoanggiap1412/hoanggiap1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🌱 I’m currently learning **Computer Science** at The University of Information Technology, Vietnam 🏫
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
--->
+
+
+
+
+
+
